@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Avaliacao</string>
+    <string name="titulo">Atividade Avaliativa</string>
+    <string name="label_name">Nome</string>
+    <string name="label_age">Idade</string>
+    <string name="btn_analise">Analisar</string>
+    <string name="surprise">%1$s, voce nasceu em %2$int</string>
+    <string name="msg_campo_obrigatorio">Campo vazio</string>
+</resources>
